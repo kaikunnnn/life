@@ -1,0 +1,19 @@
+# 個人情報を含むファイル
+# 02_次の計画_Next_Actions/00相談したい_topics/
+# **/mythought.md
+
+# ビルド出力
+.vitepress/dist
+.vitepress/cache
+node_modules/
+
+# システムファイル
+.DS_Store
+*.log
+.env
+.env.local
+
+# 一時ファイル
+*.swp
+*.swo
+*~
